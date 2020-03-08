@@ -191,5 +191,15 @@ neck, tail and feet.
       <h2 class="subs" id="duskpin">
           Duskpin
       </h2>    
+       
+         <img src="https://www.kasandbox.org/programming-images/avatars/piceratops-ultimate.png">    
+      <h2 class="subs" id="duskpin">
+          Duskpin
+      </h2> 
+      <h3 class="subs">
+          <em>Duskpin seed</em>
+      </h3>
+          <img src="https://www.kasandbox.org/programming-images/avatars/duskpin-seed.png">
+          
           
           
